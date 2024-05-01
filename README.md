@@ -44,4 +44,4 @@ cd to the options directory
 ```sh 
 javac src/*.java
 ```
-4. Run the application:
+4. Run the application
