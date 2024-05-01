@@ -1,0 +1,4 @@
+AP-0001|Boeing|737-MAX|100|YVR|Jason Wilder
+CS-0002|Hyundai|M.V.Bcit|10000|BCIT Liner|Alaska|Paul Mills
+TR-0003|Bombardier|Adirondack|300|Amtrak|true|Seattle|Bob Langelaan
+BS-0004|Hino|HINO500|50|Greyhound|Coach|Seatle|Kevin Cudihee
